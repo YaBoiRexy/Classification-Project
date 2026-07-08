@@ -10,5 +10,5 @@ See [ubc.craft.me/Credit_Project](https://ubc.craft.me/Credit_Project) for proje
 
 1. Clone repo.
 2. Use Jupyter Lab to open "Classification Project.ipynb".
-3. Click "Restart kernel and run all cells" <img width="152" height="142" alt="image" src="https://github.com/user-attachments/assets/72b37e2c-3db0-444c-b60c-a8348e864c2e" />.
+3. Click "Restart kernel and run all cells" <img width="20" alt="Restart button" src="https://github.com/user-attachments/assets/72b37e2c-3db0-444c-b60c-a8348e864c2e" />.
 4. Wait 10-20 minutes for model training.
