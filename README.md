@@ -1,6 +1,6 @@
 # Classification Project
 
-I trained a machine learning model on the Kaggle Credit Dataset, predicting credit card defaults with 85% accuracy. See [ubc.craft.me/Credit_Project](https://ubc.craft.me/Credit_Project) for extended summary.
+I trained a machine learning model on the Kaggle Credit Dataset, predicting credit card defaults with 85% accuracy. See [my portfolio](https://ubc.craft.me/dana/b/7C662A59-7FBE-44D4-BE09-5E1870B69D8C/End-to-End-Machine-Learning-Pipeline) for extended summary.
 
 ## How to view
 
